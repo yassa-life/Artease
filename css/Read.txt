@@ -1,0 +1,6 @@
+extract.css 
+
+imp: 
+    # this file is made by extracting some parts from famouse libraries and j quries.
+    # and edited some parts for my own easiness.
+    # if you want those lib and j quries those are in the folder called plugins.
